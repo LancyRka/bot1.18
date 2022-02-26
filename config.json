@@ -1,0 +1,8 @@
+{
+	"ip":"EBEBE2.aternos.me"37752",
+	"name": "bot1234vanev",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
