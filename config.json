@@ -1,9 +1,9 @@
 {
 	"ip":"EBEBE2.aternos.me",
 	"port":	"46995",
-	"name": "EBEBEBOT",
+	"name": "PENJUAL",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
 }
