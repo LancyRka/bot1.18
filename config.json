@@ -1,6 +1,7 @@
 {
-	"ip":"EBEBE2.aternos.me"37752",
-	"name": "bot1234vanev",
+	"ip":"EBEBE2.aternos.me",
+	"port":	"46995"
+	"name": "EBEBEBOT",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
