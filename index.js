@@ -39,7 +39,7 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Sukses Login")
-	bot.chat("Halo semua");
+	bot.chat("Open B O");
 });
   
 function task(i) { 
